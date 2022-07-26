@@ -29,6 +29,7 @@ conda env create -f environment.yaml
 ## Code formatting and test 
 
 ```
+pre-commit install
 pre-commit run --all-files
 ```
 

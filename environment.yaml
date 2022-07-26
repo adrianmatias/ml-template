@@ -268,4 +268,3 @@ dependencies:
     - validators==0.18.2
     - werkzeug==2.2.0
     - widgetsnbextension==3.6.1
-prefix: /home/mat/miniconda3/envs/ml-template
